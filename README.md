@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammedhassan0199
+- 👋 Hi, I’m Hassan
 - 👀 I’m interested in web development,
 - 🌱 I’m currently learning JavaScript, and React
 - 💞️ I’m looking to collaborate on open-source projects related to web development
